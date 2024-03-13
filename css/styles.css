@@ -1067,7 +1067,7 @@ footer button:focus {
     padding: 72px 16px 24px 16px;
 }
 
-@media (max-width: 467px) {
+@media (max-width: 427px) {
     .modal {
         min-height: 466px;
         width: 308px;
@@ -1101,7 +1101,7 @@ footer button:focus {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-@media (max-width: 467px) {
+@media (max-width: 427px) {
     .modal-button {
         top: 12px;
         right: 12px;
@@ -1154,7 +1154,7 @@ footer button:focus {
     margin-bottom: 16px;
 }
 
-@media (max-width: 467px) {
+@media (max-width: 427px) {
     .modal-title {
         margin-bottom: 8px;
         font-size: 14px;
@@ -1188,7 +1188,7 @@ footer button:focus {
     display: block;
 }
 
-@media (max-width: 467px) {
+@media (max-width: 427px) {
     .modal-form-input {
         width: 292px;
         padding: 8px 0 8px 38px;
@@ -1233,7 +1233,7 @@ footer button:focus {
     padding-left: 16px;
 }
 
-@media (max-width: 467px) {
+@media (max-width: 427px) {
     .comment {
         min-height: 40px;
     }
@@ -1269,7 +1269,7 @@ footer button:focus {
     align-items: center;
 }
 
-@media (max-width: 467px) {
+@media (max-width: 427px) {
     .privacy {
         margin-bottom: 16px;
         display: block;
@@ -1297,7 +1297,7 @@ footer button:focus {
     fill: #fcfcfc;
 }
 
-@media (max-width: 467px) {
+@media (max-width: 427px) {
     .checkbox-arrow {
         left: 20px;
     }
@@ -1339,7 +1339,7 @@ input[type="checkbox"]:checked+.privacy:before {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-@media (max-width: 467px) {
+@media (max-width: 427px) {
     .modal-send-button {
         padding: 8px 16px;
         width: 154px;
