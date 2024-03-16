@@ -1339,3 +1339,27 @@ input[type="checkbox"]:checked+.privacy:before {
 .modal-send-button:focus {
     background-color: var(--pressed-state-color);
 }
+
+.tags-azaza > * {
+    position: absolute;
+}
+
+.tags-azaza > *:nth-child(1) {
+    bottom: 0;
+}
+
+.tags-azaza > *:nth-child(2) {
+    bottom: 20px;
+}
+
+.tags-azaza > *:nth-child(3) {
+    bottom: 40px;
+}
+
+.tags-azaza > *:nth-child(4) {
+    bottom: 60px;
+}
+
+.tags-azaza > *:nth-child(5) {
+    bottom: 80px;
+}
