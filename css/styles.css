@@ -225,7 +225,7 @@ address {
     top: 0;
     left: 0;
     width: 100vw;
-    height: calc(100vh - 40px);
+    height: 100vh;
     padding: 80px 35px 40px 40px;
     background-color: #fff;
     z-index: 999;
@@ -253,7 +253,7 @@ address {
 
 .nav-mobile-menu-footer {
     position: absolute;
-    bottom: 40px;
+    bottom: 80px;
 }
 
 @media (min-width: 768px) {
@@ -1338,28 +1338,4 @@ input[type="checkbox"]:checked+.privacy:before {
 .modal-send-button:hover,
 .modal-send-button:focus {
     background-color: var(--pressed-state-color);
-}
-
-.tags-azaza > * {
-    position: absolute;
-}
-
-.tags-azaza > *:nth-child(1) {
-    bottom: 0;
-}
-
-.tags-azaza > *:nth-child(2) {
-    bottom: 20px;
-}
-
-.tags-azaza > *:nth-child(3) {
-    bottom: 40px;
-}
-
-.tags-azaza > *:nth-child(4) {
-    bottom: 60px;
-}
-
-.tags-azaza > *:nth-child(5) {
-    bottom: 80px;
 }
