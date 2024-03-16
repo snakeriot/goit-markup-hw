@@ -248,7 +248,7 @@ address {
 }
 
 .nav-mobile-menu {
-    margin-bottom: auto;
+    /*margin-bottom: auto;*/
 }
 
 @media (min-width: 768px) {
